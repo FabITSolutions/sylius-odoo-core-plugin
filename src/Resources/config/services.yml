@@ -1,0 +1,8 @@
+parameters:
+  odoo_config:
+    url: '%env(odoo_url)%'
+    db: '%env(odoo_db)%'
+    user: '%env(odoo_user)%'
+    password: '%env(odoo_password)%'
+    debug_mode: true
+  odoo_enable: '%env(odoo_enable)%'
