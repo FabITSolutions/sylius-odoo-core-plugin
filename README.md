@@ -1,8 +1,10 @@
-<img src="https://www.fabitsolutions.in/web/image/website/1/logo/Fab%20IT%20Solutions" data-canonical-src="https://www.fabitsolutions.in/contactus?utm_source=github&utm_medium=referral&utm_campaign=sylius_odoo_core_plugin" width="150" />
+<p align="center">
+    <a href="https://www.fabitsolutions.in/r/b0I" target="_blank">
+        <img src="https://www.fabitsolutions.in/web/image/website/1/logo/Fab%20IT%20Solutions" width="150"  />
+    </a>
+</p>
 
 <h1 align="center">Odoo Core Plugin</h1>
-
-# Fabit Odoo Core Plugin
 This plugin connect Sylius into Odoo
 
 ## Quickstart Installation
